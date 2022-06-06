@@ -1,4 +1,4 @@
-• 👋 I'm an experienced ✨ Linux System Administrator ✨ ^_^
+• 👋 I'm an experienced ✨ Linux System Administrator ✨ ^_^ \n
 • 👀 I’m interested in Docker && Kubernetes
 • 🌱 I’m currently learning Swift
 • 💞️ I’m looking to collaborate on long-term
