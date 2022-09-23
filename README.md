@@ -1,6 +1,6 @@
-• 👋 I'm an experienced ✨ Linux System Administrator ✨ 
+• 👋 I'm an experienced ✨ Linux System Administrator ✨  
 • 👀 I’m interested in Docker && Kubernetes  
-• 🌱 I’m currently learning Swift  
+• 🌱 I’m currently learning KVM  
 • 💞️ I’m looking to collaborate on long-term  
 <!--- • 📫 You can reach me at andu74dev@gmail.com --->
 
